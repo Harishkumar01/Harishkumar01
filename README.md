@@ -9,7 +9,7 @@
 
 I design and build scalable backend systems, automation frameworks, and AI-driven solutions.
 
-Currently working as a **Senior Consultant at Oracle India (Hyderabad)**, focusing on:
+Currently working as a **Senior Developer at Oracle India (Hyderabad)**, focusing on:
 
 - Backend system design  
 - Cloud-native deployments  
